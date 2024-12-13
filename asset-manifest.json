@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/diaamohamed26/businessweb2-react/static/css/main.1ce0129a.css",
+    "main.js": "/diaamohamed26/businessweb2-react/static/js/main.57ce22a9.js",
+    "static/js/453.f46d509c.chunk.js": "/diaamohamed26/businessweb2-react/static/js/453.f46d509c.chunk.js",
+    "static/media/laptop.png": "/diaamohamed26/businessweb2-react/static/media/laptop.6c5b3c24c8934f53804c.png",
+    "static/media/bg.jpg": "/diaamohamed26/businessweb2-react/static/media/bg.d7b0633599c1dac66149.jpg",
+    "static/media/blogs-1.jpg": "/diaamohamed26/businessweb2-react/static/media/blogs-1.109ea4ab1108089fdd9a.jpg",
+    "static/media/tab-1.jpg": "/diaamohamed26/businessweb2-react/static/media/tab-1.109ea4ab1108089fdd9a.jpg",
+    "static/media/blogs-3.jpg": "/diaamohamed26/businessweb2-react/static/media/blogs-3.bb4e51f542cfc7108390.jpg",
+    "static/media/tab-3.jpg": "/diaamohamed26/businessweb2-react/static/media/tab-3.bb4e51f542cfc7108390.jpg",
+    "static/media/blogs-2.jpg": "/diaamohamed26/businessweb2-react/static/media/blogs-2.4f217e19830043f478ff.jpg",
+    "static/media/tab-2.jpg": "/diaamohamed26/businessweb2-react/static/media/tab-2.4f217e19830043f478ff.jpg",
+    "static/media/about.jpg": "/diaamohamed26/businessweb2-react/static/media/about.f759d21a49b78240c207.jpg",
+    "static/media/contact.svg": "/diaamohamed26/businessweb2-react/static/media/contact.adff68c5dcc9005ceb1a5566aaf4440b.svg",
+    "static/media/test-4.jpg": "/diaamohamed26/businessweb2-react/static/media/test-4.35463172278c4051b5f4.jpg",
+    "static/media/test-1.jpg": "/diaamohamed26/businessweb2-react/static/media/test-1.6ac85de7298319b1f8d5.jpg",
+    "static/media/test-6.jpg": "/diaamohamed26/businessweb2-react/static/media/test-6.7365b7fa25b4bccc5ff9.jpg",
+    "static/media/test-3.jpg": "/diaamohamed26/businessweb2-react/static/media/test-3.ba5f8794c055cc1488b5.jpg",
+    "static/media/test-2.jpg": "/diaamohamed26/businessweb2-react/static/media/test-2.7df14e12e444ad660802.jpg",
+    "static/media/test-5.jpg": "/diaamohamed26/businessweb2-react/static/media/test-5.a7ab2c82813cb95da9d6.jpg",
+    "index.html": "/diaamohamed26/businessweb2-react/index.html",
+    "main.1ce0129a.css.map": "/diaamohamed26/businessweb2-react/static/css/main.1ce0129a.css.map",
+    "main.57ce22a9.js.map": "/diaamohamed26/businessweb2-react/static/js/main.57ce22a9.js.map",
+    "453.f46d509c.chunk.js.map": "/diaamohamed26/businessweb2-react/static/js/453.f46d509c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce0129a.css",
+    "static/js/main.57ce22a9.js"
+  ]
+}
